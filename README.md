@@ -1,6 +1,6 @@
 # Hi there, I’m Nahid 👋
 
-**Software Quality Assurance Engineer | Workspace Infotech Limited**
+**Software Quality Assurance Engineer | Ex-Workspace Infotech Limited**
 
 ---
 
