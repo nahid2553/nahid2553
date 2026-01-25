@@ -7,6 +7,7 @@
 ### 🚀 About Me
 
 Passionate QA Engineer and focused on building reliable software through automation, performance testing, and modern development practices. I thrive on solving real-world problems, exploring new tools, and sharing my journey with the tech community.
+Email me for a query:- nahid152553@gmail.com
 
 ---
 
