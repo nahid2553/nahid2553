@@ -1,32 +1,27 @@
 # Hi there, I’m Nahid 👋
 
-**Software Quality Assurance Engineer | Ex-Workspace Infotech Limited**
+**Assistant IT at DBL Group | Cyber Security Enthusiast**
 
 ---
 
 ### 🚀 About Me
 
-Passionate QA Engineer and focused on building reliable software through automation, performance testing, and modern development practices. I thrive on solving real-world problems, exploring new tools, and sharing my journey with the tech community.
+Dedicated IT professional with a strong foundation in networking, Linux, and system support, seeking to build a career in cybersecurity. Eager to develop expertise in threat analysis and vulnerability assessment while contributing to a team that values integrity and responsibility.
 Email me for a query:- nahid152553@gmail.com
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Expertize
 
-- **API Testing & Automation:** Postman, Selenium, Playwright, 
-- **Programming:** Java, Python
-- **Quality Processes:** Agile, SDLC, STLC
-- **Performance:** JMeter
-- **Collaboration:** Jira, Trello
+- **Network analysis & vulnarability assesment**
+- **Troubleshooting**
+- **Web App Testing**
 
 ---
 
 ### 🌟 Interests & Fun Facts
 
-- 🛠️ Enjoys exploring open-source tools and building scalable automation frameworks
-- 📱 Loves testing apps that make a real-world impact
-- 📚 Always learning about software business strategy and improving English communication
-- 🤝 Advocate for quality, collaboration, and continuous improvement
+- 
 
 ---
 
